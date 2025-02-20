@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=48&pause=1000&color=1E90FF&vCenter=true&width=800&lines=Hey+There+I'm+Vignesh;+AI+%26+Data+Science;Self-Taught+What+We+Do+;Researcher:+Always+Asking+Why;Exploitation:+My+Secret+Weapon;Life+and+the+Network!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=48&pause=1000&color=FF0000&vCenter=true&width=800&lines=Hey+There+I'm+Vignesh;+AI+%26+Data+Science;Self-Taught+What+We+Do+;Researcher:+Always+Asking+Why;Exploitation:+My+Secret+Weapon;Life+and+the+Network!" alt="Typing SVG"/>
 </p>
 
 ## Hi, I'm Vignesh D 👋
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Self--Taught_Software_Engineer_%26_Cybersecurity_Enthusiast-1E90FF?style=for-the-badge&logoColor=white" alt="Self-Taught Software Engineer & Cybersecurity Enthusiast" width="3000" height="60"/>
+    <img src="https://img.shields.io/badge/Self--Taught_Software_Engineer_%26_Cybersecurity_Enthusiast-7FFFD4?style=for-the-badge&logoColor=white" alt="Self-Taught Software Engineer & Cybersecurity Enthusiast" width="3000" height="60"/>
 </p>
 
 - 🏫 **University**: VSB College of Engineering Technical Campus (Anna University Affiliate)
