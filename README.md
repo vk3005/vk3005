@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=500&size=46&pause=1000&color=1E90FF&vCenter=true&width=800&lines=Hey+There+I'm+Vignesh:+AI+%26+Data+Science:+My+Soul;Self-Taught+What+We+Do+;Researcher:+Always+Asking+Why;Exploitation:+My+Secret+Weapon;Life+and+the+Network!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=300&size=46&pause=1000&color=1E90FF&vCenter=true&width=800&lines=Hey+There+I'm+Vignesh:+AI+%26+Data+Science:+My+Soul;Self-Taught+What+We+Do+;Researcher:+Always+Asking+Why;Exploitation:+My+Secret+Weapon;Life+and+the+Network!" alt="Typing SVG"/>
 </p>
 
 ## Hi, I'm Vignesh D 👋
