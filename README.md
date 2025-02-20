@@ -22,7 +22,8 @@
 <!-- Contribution Graph -->
 ![vignesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vk3005&theme=github-compact&v=20241107101720)
 
-![snake gif](https://github.com/vk3005/vk3005/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/SubashSK777/SubashSK777/blob/output/github-snake-dark.svg)
+
 
 <!-- Tech Stack -->
 ## 💻 Tech Stack
