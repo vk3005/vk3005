@@ -5,7 +5,7 @@
 ## Hi, I'm Vignesh D 👋
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Self--Taught_Software_Engineer_%26_Cybersecurity_Enthusiast-DC143C?style=for-the-badge&logoColor=white" alt="Self-Taught Software Engineer & Cybersecurity Enthusiast" width="3000" height="60"/>
+    <img src="https://img.shields.io/badge/Self--Taught_Software_Engineer_%26_Cybersecurity_Enthusiast-1E90FF?style=for-the-badge&logoColor=white" alt="Self-Taught Software Engineer & Cybersecurity Enthusiast" width="3000" height="60"/>
 </p>
 
 - 🏫 **University**: VSB College of Engineering Technical Campus (Anna University Affiliate)
