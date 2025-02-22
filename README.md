@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Self--Taught_Software_Engineer_%26_Full_Stack_Developer-1E90FF?style=for-the-badge&logoColor=white" alt="Self-Taught Software Engineer & Full Stack Developer" width="3000" height="60"/>
 </p>
 
-- 🏫 **University**: VSB College of Engineering Technical Campus (Anna University Affiliate)
+- 🏫 **University**: VSB College of Engineering Technical Campus (Autonomous)
 - 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science
 - 🌐 **Platforms**: VS Code,Eclipse,Jupiter
 - ⚙️ **Top Tech Stacks**: Java, Python, 
@@ -22,7 +22,7 @@
 <!-- Contribution Graph -->
 ![vignesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vk3005&theme=github-compact&v=20241107101720)
 
-![snake gif](https://github.com/vk3005/vk3005/blob/output/github-snake-dark.svg)
+
 
 
 <!-- Tech Stack -->
