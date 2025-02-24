@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=48&pause=1000&color=DC143C&vCenter=true&width=800&lines=Hey+There+I'm+Vignesh;+AI+%26+Data+Science;Self-Taught+What+We+Do+;Researcher:+Always+Asking+Why;Live+your+potential;Life+and+the+Network!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=48&pause=1000&color=DC143C&vCenter=true&width=800&lines=Hey+There+I'm+Vignesh;+AI+%26+Data+Science;Self-Taught+What+We+Do+;Life+is+Unpredictable;Live+your+potential;Life+and+the+Network!" alt="Typing SVG"/>
 </p>
 
 ## Hi, I'm Vignesh D 👋
@@ -10,11 +10,11 @@
 
 - 🏫 **University**: VSB College of Engineering Technical Campus (Autonomous)
 - 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science
-- 🌐 **Platforms**: VS Code,Eclipse,Jupiter
+- 🌐 **Platforms**: VS Code,Eclipse,Jupiter and Intelj
 - ⚙️ **Top Tech Stacks**: Java, Python, 
-- 🛠️ **Skills**: Full Stack Developer
+- 🛠️ **Skills**: Web Developer and Software Developer
 - 🌏 **Languages**: Tamil, English, Hindi
-- 💻 **Hobbies**: Coding,Reading Books and Watching movies
+- 💻 **Hobbies**: Coding,Reading Books,Watching movies and playing games 
 
 ## 📊 GitHub Stats
 </div>
@@ -35,7 +35,8 @@
 ## Libraries & Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=%23white) 
-![pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 
 ### Tools & Services
 
