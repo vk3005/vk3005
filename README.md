@@ -13,7 +13,7 @@
 - 🌐 **Platforms**: VS Code,Eclipse,Jupiter and Intelj
 - ⚙️ **Top Tech Stacks**: Java, Python, 
 - 🛠️ **Skills**: Web Developer and Software Developer
-- 🌏 **Languages**: Tamil, English, Hindi
+- 🌏 **Languages**: Tamil, English and Hindi
 - 💻 **Hobbies**: Coding,Reading Books,Watching movies and playing games 
 
 ## 📊 GitHub Stats
