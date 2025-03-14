@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Self--Taught_Software_Engineer_%26_Full_Stack_Developer-1E90FF?style=for-the-badge&logoColor=white" alt="Self-Taught Software Engineer & Full Stack Developer" width="3000" height="60"/>
 </p>
 
-- 🏫 **University**: VSB College of Engineering Technical Campus (Autonomous)
+- 🏫 **University**: VSB College of Engineering Technical Campus (Autonomous) 
 - 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science 
 - 🌐 **Platforms**: VS Code,Eclipse,Jupiter and Intelj
 - ⚙️ **Top Tech Stacks**: Java, Python,
