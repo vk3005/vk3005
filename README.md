@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=48&pause=1000&color=DC143C&vCenter=true&width=800&lines=Hello+I'm+Vignesh+D;+AI+%26+Data+Science;Self-Taught+What+I+Do+;Life+is+Unpredictable;Live+your+potential;Life+and+the+Network!" alt="Typing SVG"/>
-</p> 
+</p>  
 
 ## Hi, I'm Vignesh D 👋 
  
