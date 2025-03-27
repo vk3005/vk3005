@@ -9,7 +9,7 @@
 </p> 
 
 - 🏫 **University**: VSB College of Engineering Technical Campus (Autonomous) 
-- 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science 
+- 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science  
 - 🌐 **Platforms**: VS Code,Eclipse,Jupiter and Intelj
 - ⚙️ **Top Tech Stacks**: Java, Python,
 - 🛠️ **Skills**: Web Developer and Software Developer
